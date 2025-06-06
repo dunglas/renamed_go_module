@@ -1,7 +1,7 @@
-module github.com/dunglas/go_module_to_rename/submodule
+module dunglas.dev/go_module_to_rename/submodule
 
 go 1.24.3
 
-replace github.com/dunglas/go_module_to_rename => ../
+replace dunglas.dev/go_module_to_rename => ../
 
-require github.com/dunglas/go_module_to_rename v0.0.0-00010101000000-000000000000
+require dunglas.dev/go_module_to_rename v0.0.0-20250606084343-ce6a63bc194a
